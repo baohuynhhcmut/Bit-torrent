@@ -2,19 +2,6 @@
 
 This project is an implementation of the BitTorrent protocol. It includes functionalities for both the client and server sides of the protocol, allowing for the downloading and seeding of torrent files.
 
-## Project Structure
-/
-├── main.js               # Entry point for the Electron application
-├── preload.js            # Preload script for Electron
-├── src/
-│   └── Peer/
-│       ├── Client/       # Client-side logic for handling torrent downloads, piece management, and peer communication
-│       └── Server/       # Server-side logic for handling peer connections and managing the tracker
-│   └── Tracker/          # Tracker server implementation
-├── public/               # Static assets like CSS and JavaScript files for the frontend
-├── pages/  
-
-
 ## Installation
 Install dependencies:
     ```sh
