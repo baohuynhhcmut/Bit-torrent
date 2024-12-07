@@ -12,8 +12,7 @@ This project is an implementation of the BitTorrent protocol. It includes functi
 │       └── Server/       # Server-side logic for handling peer connections and managing the tracker
 │   └── Tracker/          # Tracker server implementation
 ├── public/               # Static assets like CSS and JavaScript files for the frontend
-├── pages/                # HTML files for different pages of the application
-
+├── pages/  
 
 
 ## Installation
